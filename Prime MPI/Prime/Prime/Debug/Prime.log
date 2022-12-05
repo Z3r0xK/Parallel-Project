@@ -1,0 +1,19 @@
+﻿Build started 12/5/2022 6:38:27 AM.
+     1>Project "D:\Parallel Project\Prime MPI\Prime\Prime\Prime.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Prime.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Parallel Project\Prime MPI\Prime\Debug\Prime.exe" /NOLOGO "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\msmpi.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Prime.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Parallel Project\Prime MPI\Prime\Debug\Prime.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Parallel Project\Prime MPI\Prime\Debug\Prime.lib" /MACHINE:X86 Debug\src.obj
+         Prime.vcxproj -> D:\Parallel Project\Prime MPI\Prime\Debug\Prime.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Parallel Project\Prime MPI\Prime\Debug\Prime.exe;#1" /manifest Debug\Prime.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Prime.unsuccessfulbuild".
+         Touching "Debug\Prime.lastbuildstate".
+     1>Done Building Project "D:\Parallel Project\Prime MPI\Prime\Prime\Prime.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.37
